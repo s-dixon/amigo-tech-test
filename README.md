@@ -27,7 +27,6 @@ $ go build
 
 Run the web service
 ``` sh
-$ cd amigo-tech-test
 $ ./amigo-tech-test.exe
 ```
   
