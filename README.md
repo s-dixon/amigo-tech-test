@@ -30,7 +30,6 @@ $ ./amigo-tech-test.exe
 ```
   
 # API
-----
 ### **Create Message**
 
 * **URL**
