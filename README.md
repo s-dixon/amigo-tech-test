@@ -1,6 +1,7 @@
 # Amigo Tech Test
 
 **Disclaimer: I haven't used Go before so please excuse any bad coding practices :)**
+
 With the requirements for adding and retrieving a single message defined within the specification of the test, I decided to make the following elaborations:
 
   - Tracking "users" by means of recording their IP address (if present within the request)
