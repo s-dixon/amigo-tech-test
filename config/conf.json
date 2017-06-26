@@ -1,0 +1,10 @@
+{
+  "app": {
+    "port": ":8080"
+  },
+  "db": {
+    "username": "docker",
+    "password": "docker",
+    "database": "amigo"
+  }
+}
